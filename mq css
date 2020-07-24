@@ -1,0 +1,12 @@
+ctrl + shift + p
+user
+user:css
+preferences: configure snippets
+"media querie": {
+        "prefix": "mq",
+        "body": [
+            "@media (min-width: $1) {\n\t$0\n}"
+        ]
+    }
+    
+/* snippet para sintaxis de Media Queries en CSS */   
